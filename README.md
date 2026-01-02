@@ -55,11 +55,11 @@ src/
 git clone https://github.com/your-username/itask-todo-app.git
 
 ```
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 ```bash
 npm install
 ```
-###3️⃣ Run the app
+### 3️⃣ Run the app
 ```bash
 npm run dev
 The app will start on:
