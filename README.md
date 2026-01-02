@@ -64,10 +64,11 @@ npm install
 npm run dev
 ```
 The app will start on:
+```bash
 http://localhost:5173
 ```
 ### 👤 Author
-```
+```bash
 **Rohan Rawat**  
 MERN Developer • React Learner  
 GitHub: @rohanrawat10
