@@ -68,7 +68,9 @@ http://localhost:5173
 
 ```
 ### 👤 Author
-***Rohan Rawat***
-   Mern Developer | React Learner
+
+**Rohan Rawat**  
+MERN Developer • React Learner  
+GitHub: @rohanrawat10
         
 
