@@ -70,7 +70,7 @@ http://localhost:5173
 ### 👤 Author
 ```bash
 **Rohan Rawat**  
-MERN Developer • React Learner  
+MERN Developer • Learner  
 GitHub: @rohanrawat10
         
 
