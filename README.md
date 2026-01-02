@@ -55,16 +55,3 @@ src/
 ```bash
 git clone https://github.com/your-username/itask-todo-app.git
 
-### 2️⃣ Install dependencies
-  ```bash
-     npm install
-
-### 3️⃣ Run the app
-       npm run dev
-        The app will start on:
-        http://localhost:5173
-
-### 👤 Author
-***Rohan Rawat***
-   Mern Developer | React Learner
-        
