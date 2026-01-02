@@ -67,7 +67,7 @@ The app will start on:
 http://localhost:5173
 
 ```
- 👤 Author
+### 👤 Author
  ```
 ***Rohan Rawat***
    Mern Developer | React Learner
