@@ -30,6 +30,7 @@ It helps users manage daily tasks with features like adding, editing, deleting, 
 ---
 
 ## 📂 Project Structure
+```bash
 src/
 │
 ├── components/
