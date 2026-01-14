@@ -49,6 +49,7 @@ src/
 - Completed tasks are displayed with a line-through effect
 
 ---
+```
 ## ▶️ Getting Started
 
 ### 1️⃣ Clone the repository
