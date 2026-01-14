@@ -22,7 +22,7 @@ It helps users manage daily tasks with features like adding, editing, deleting, 
 ## 🛠️ Tech Stack
 
 - **React**
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **Tailwind CSS**
 - **UUID** (for unique task IDs)
 - **React Icons**
