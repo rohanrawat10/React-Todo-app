@@ -40,7 +40,7 @@ src/
 ├── main.jsx
 └── index.css
 
-
+```
 ## ⚙️ How It Works
 
 - Tasks are stored in the browser using `localStorage`
@@ -48,7 +48,7 @@ src/
 - Edit mode automatically loads the task into the input field
 - Completed tasks are displayed with a line-through effect
 
----
+
 ```
 ## ▶️ Getting Started
 
