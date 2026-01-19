@@ -28,7 +28,14 @@ It helps users manage daily tasks with features like adding, editing, deleting, 
 - **React Icons**
 
 ---
+## ⚙️ How It Works
 
+- Tasks are stored in the browser using `localStorage`
+- Users can switch between **Home** (add & pending tasks) and **Your Tasks** (completed tasks)
+- Edit mode automatically loads the task into the input field
+- Completed tasks are displayed with a line-through effect
+- 
+---
 ## 📂 Project Structure
 ```bash
 src/
@@ -41,15 +48,7 @@ src/
 └── index.css
 
 ```
-## ⚙️ How It Works
 
-- Tasks are stored in the browser using `localStorage`
-- Users can switch between **Home** (add & pending tasks) and **Your Tasks** (completed tasks)
-- Edit mode automatically loads the task into the input field
-- Completed tasks are displayed with a line-through effect
-
-
-```
 ## ▶️ Getting Started
 
 ### 1️⃣ Clone the repository
