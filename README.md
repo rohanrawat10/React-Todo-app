@@ -71,7 +71,7 @@ http://localhost:5173
 ### 👤 Author
 ```bash
 **Rohan Rawat**  
-MERN Developer • Learner  
+MERN Developer
 GitHub: @rohanrawat10
         
 
